@@ -1,2 +1,2 @@
 # TC-pump-probe
-Data and codes for plotting the figures in the manuscript "Detection of anyon braiding through pump-probe spectroscopy" (arXiv:2503.22792).
+Data and codes for plotting to produce the Figures in the manuscript "Detection of anyon braiding through pump-probe spectroscopy" (arXiv:2503.22792). Data for each figure are contained as `.jld2` files in the corresponding folder; the Jupyter notebook file includes all necessary Julia calculations to produce the plots in the paper from the raw data.
